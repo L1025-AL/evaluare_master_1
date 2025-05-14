@@ -1,2 +1,2 @@
-def aduna(a, b):
-    return a + b
+def aduna(a, b, c):
+    return a + b + c 
